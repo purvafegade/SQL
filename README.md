@@ -226,7 +226,7 @@ This table helps analyze suspicious transactions and understand common fraud pat
 6. During which time of day do most suspicious transactions occur?
 7. What is the monthly average transaction amount?
 
-Yes. Add this **Key Performance Indicators** section to the previous project:
+
 
 ## 📊 Key Performance Indicators
 
