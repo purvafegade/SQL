@@ -5,7 +5,7 @@
 
 A financial institution processes a large number of credit card transactions every day across different cities and merchant categories.
 
-The organization wants to develop a **Credit Card Fraud & Transaction Analytics System** to store, manage, and analyze customer, credit card, merchant, and transaction data using a structured SQL database.
+The organization wants to develop a **FraudShield Analytics** to store, manage, and analyze customer, credit card, merchant, and transaction data using a structured SQL database.
 
 The system maintains information about:
 
@@ -132,7 +132,7 @@ Risk levels can include:
 
 This table helps analyze suspicious transactions and understand common fraud patterns.
 
-# 💳 Credit Card Fraud & Transaction Analytics – SQL Business Analysis Question Bank
+# 💳 FraudShield Analytics – SQL Business Analysis Question Bank
 
 ## 👥 Customer Analysis
 
@@ -243,7 +243,7 @@ This table helps analyze suspicious transactions and understand common fraud pat
 
 ## 🎯 Project Conclusion
 
-The **Credit Card Fraud & Transaction Analytics SQL project** provides a structured way to analyze customer spending, credit card usage, merchant activity, and transaction behavior.
+The **FraudShield Analytics** provides a structured way to analyze customer spending, credit card usage, merchant activity, and transaction behavior.
 
 The analysis can help identify **unusual transaction patterns, high-value transactions, frequently used merchants, high-risk transactions, and fraud-related activity**.
 
@@ -251,9 +251,9 @@ Using different SQL concepts such as **JOIN, GROUP BY, aggregate functions, CASE
 
 Overall, this project demonstrates how SQL can be used for **financial data analysis and fraud monitoring** while covering a wide range of SQL concepts.
 
-# 💳 Credit Card Fraud & Transaction Analytics
+# 💳 FraudShield Analytics
 
-        CREDIT CARD FRAUD & TRANSACTION ANALYTICS
+              FraudShield Analytics
                          │
                          ▼
                   SQL DATABASE
